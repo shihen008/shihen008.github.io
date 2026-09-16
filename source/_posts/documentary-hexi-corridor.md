@@ -75,9 +75,9 @@ keywords:
 
 看完前两集，可以在地图上找到祁连山、河西四郡和玉门关；看到《造像》和《敦煌》时，可以再了解石窟艺术与经卷保护；看到最后两集，则可以回头思考水源、城市、生态与文化遗产如何共同决定这条走廊的未来。这样观看，《河西走廊》就不只是一部“看完很震撼”的纪录片，而会成为理解中国西北历史的一条清晰入口。
 
-{% bilibili BV1Fx41117jB 1 %}
-纪录片《河西走廊》第一集及全十集入口，播放范围以 Bilibili 页面提示为准。
-{% endbilibili %}
+{% bilibili_link https://www.bilibili.com/bangumi/play/ss20790 /images/hexi-corridor-cover.jpg %}
+纪录片《河西走廊》全十集官方页面，播放范围以 Bilibili 页面提示为准。
+{% endbilibili_link %}
 
 也可以直接前往 [Bilibili《河西走廊》全集页面](https://www.bilibili.com/bangumi/play/ss20790) 收藏或观看。
 

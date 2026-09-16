@@ -25,3 +25,9 @@ tags:
 {% bilibili BV1xx411c7mD 1 %}
 这里填写 Bilibili 视频说明。
 {% endbilibili %}
+
+## Bilibili 版权内容观看卡片
+
+{% bilibili_link https://www.bilibili.com/bangumi/play/ss20790 /images/example-poster.jpg %}
+这里填写 Bilibili 正版页面说明。
+{% endbilibili_link %}

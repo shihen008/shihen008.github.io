@@ -53,6 +53,14 @@ npm run server
 {% endbilibili %}
 ```
 
+普通投稿视频可直接嵌入播放器。版权番剧、电影和纪录片可能限制站外播放，此时使用官方观看卡片：
+
+```text
+{% bilibili_link https://www.bilibili.com/bangumi/play/ss20790 /images/hexi-corridor-cover.jpg %}
+纪录片《河西走廊》全十集官方页面
+{% endbilibili_link %}
+```
+
 可以复制 `source/_drafts/media-example.md` 作为写作模板。草稿默认不会发布。
 
 ## 检查构建
