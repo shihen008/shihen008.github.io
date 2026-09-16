@@ -9,6 +9,7 @@ const requiredFiles = [
   'archives/index.html',
   '2015/10/30/HTML/index.html',
   '2026/09/16/ai-office-2026-from-assistant-to-agent/index.html',
+  '2026/09/16/documentary-hexi-corridor/index.html',
   'search.xml',
   'sitemap.xml',
   'atom.xml'
