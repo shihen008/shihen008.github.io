@@ -22,6 +22,8 @@ code_blocks:
 
 social:
   fab fa-github: https://github.com/shihen008 || GitHub || '#24292e'
+  fab fa-bilibili: https://space.bilibili.com/9342554 || Bilibili || '#00aeec'
+  fab fa-zhihu: https://www.zhihu.com/people/paul-wong-10 || 知乎 || '#0084ff'
   fas fa-rss: /atom.xml || RSS || '#f59e0b'
 
 favicon: /images/favicon.svg
@@ -176,8 +178,8 @@ copy:
     limit_count: 150
 
 busuanzi:
-  site_uv: false
-  site_pv: false
+  site_uv: true
+  site_pv: true
   page_pv: false
 
 search:
