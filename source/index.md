@@ -16,6 +16,10 @@ description: 会写字的魔王——PAUL 的个人主页，记录技术实践�
   <div class="home-actions">
     <a class="primary-action" href="/projects/">查看项目</a>
     <a class="secondary-action" href="/archives/">阅读文章</a>
+    <button class="secondary-action home-theme-toggle" id="home-theme-toggle" type="button" aria-label="切换夜间模式" aria-pressed="false">
+      <i class="fas fa-moon" aria-hidden="true"></i>
+      <span>夜间模式</span>
+    </button>
   </div>
 </section>
 

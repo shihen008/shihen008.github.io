@@ -101,7 +101,12 @@ related_post:
 post_pagination: 1
 
 noticeOutdate:
-  enable: false
+  enable: true
+  style: flat
+  limit_day: 365
+  position: top
+  message_prev: 这篇文章最后更新于
+  message_next: 天前，部分内容可能已经变化，请结合当前情况阅读。
 
 footer:
   nav:
@@ -169,6 +174,10 @@ darkmode:
   autoChangeMode: 1
 
 rightside_scroll_percent: true
+rightside_item_order:
+  enable: true
+  hide: readmode,hideAside
+  show: darkmode,toc,comment
 rightside_config_animation: false
 
 copy:
@@ -180,7 +189,14 @@ copy:
 busuanzi:
   site_uv: true
   site_pv: true
-  page_pv: false
+  page_pv: true
+
+lazyload:
+  enable: true
+  native: true
+  field: site
+  placeholder:
+  blur: false
 
 search:
   use: local_search
@@ -206,6 +222,7 @@ inject:
   head:
     - <link rel="stylesheet" href="/css/custom.css">
   bottom:
+    - <script src="/js/home-theme-toggle.js"></script>
 
 CDN:
   internal_provider: local
