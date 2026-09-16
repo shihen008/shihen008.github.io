@@ -2,13 +2,16 @@
 title: 首页
 layout: page
 comments: false
-sidebar: false
+aside: false
+top_img: false
 description: 会写字的魔王——PAUL 的个人主页，记录技术实践、工具开发与问题解决过程。
 ---
 
+<div class="home-page">
 <section class="home-hero">
   <p class="home-kicker">PAUL · BUILD / LEARN / WRITE</p>
-  <h1>把做过的事，写成以后还能用的经验。</h1>
+  <h1>会写字的魔王</h1>
+  <p class="home-statement">把做过的事，写成以后还能用的经验。</p>
   <p class="home-lead">这里记录技术实践、工具开发和真实的问题解决过程。旧笔记继续保留，新项目从可运行、可验证的结果开始。</p>
   <div class="home-actions">
     <a class="primary-action" href="/projects/">查看项目</a>
@@ -35,6 +38,8 @@ description: 会写字的魔王——PAUL 的个人主页，记录技术实践�
     <a class="text-link" href="https://github.com/shihen008/github-trending">查看源代码 →</a>
   </article>
 </section>
+
+</div>
 
 <section class="home-section home-grid">
   <article class="home-panel">

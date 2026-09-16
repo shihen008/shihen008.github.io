@@ -2,6 +2,7 @@
 title: 关于
 date: 2026-09-16 20:00:00
 comments: false
+top_img: false
 description: 关于 PAUL 和“会写字的魔王”这个网站。
 ---
 

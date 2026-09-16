@@ -1,0 +1,211 @@
+nav:
+  logo: /images/favicon.svg
+  display_title: true
+  display_post_title: true
+  fixed: true
+
+menu:
+  首页: / || fas fa-home
+  文章: /archives/ || fas fa-book-open
+  项目: /projects/ || fas fa-code
+  关于: /about/ || fas fa-user
+
+code_blocks:
+  theme: ocean
+  macStyle: true
+  height_limit: false
+  word_wrap: false
+  copy: true
+  language: true
+  shrink: false
+  fullpage: false
+
+social:
+  fab fa-github: https://github.com/shihen008 || GitHub || '#24292e'
+  fas fa-rss: /atom.xml || RSS || '#f59e0b'
+
+favicon: /images/favicon.svg
+
+avatar:
+  img: /images/avatar.svg
+  effect: false
+
+disable_top_img: false
+default_top_img: false
+index_img: false
+archive_img: false
+tag_img: false
+category_img: false
+footer_img: false
+background: '#f4f7fb'
+
+cover:
+  index_enable: false
+  aside_enable: false
+  archives_enable: false
+  default_cover:
+
+error_404:
+  enable: false
+
+post_meta:
+  page:
+    date_type: created
+    date_format: date
+    categories: true
+    tags: false
+    label: true
+  post:
+    position: left
+    date_type: both
+    date_format: date
+    categories: true
+    tags: true
+    label: true
+
+subtitle:
+  enable: true
+  effect: false
+  source: false
+  sub:
+    - 技术实践、工具开发与问题记录
+
+index_layout: 3
+index_post_content:
+  method: 1
+  length: 320
+
+toc:
+  post: true
+  page: false
+  number: true
+  expand: false
+  style_simple: false
+  scroll_percent: true
+
+post_copyright:
+  enable: true
+  decode: false
+  author_href: https://github.com/shihen008
+  license: CC BY-NC-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+reward:
+  enable: false
+
+related_post:
+  enable: false
+
+post_pagination: 1
+
+noticeOutdate:
+  enable: false
+
+footer:
+  nav:
+  owner:
+    enable: true
+    since: 2015
+  copyright:
+    enable: true
+    version: false
+  custom_text: 把做过的事，写成以后还能用的经验。
+
+aside:
+  enable: true
+  hide: false
+  button: true
+  mobile: false
+  position: right
+  display:
+    archive: true
+    tag: true
+    category: true
+  card_author:
+    enable: true
+    description: 技术实践、工具开发与问题记录
+    button:
+      enable: true
+      icon: fab fa-github
+      text: GitHub
+      link: https://github.com/shihen008
+  card_announcement:
+    enable: false
+  card_recent_post:
+    enable: true
+    limit: 5
+    sort: date
+  card_newest_comments:
+    enable: false
+  card_categories:
+    enable: true
+    limit: 8
+    expand: none
+  card_tags:
+    enable: true
+    limit: 20
+    color: false
+    orderby: name
+    order: 1
+  card_archives:
+    enable: true
+    type: yearly
+    format: YYYY
+    order: -1
+    limit: 8
+  card_webinfo:
+    enable: true
+    post_count: true
+    last_push_date: true
+    runtime_date:
+
+readmode: true
+
+darkmode:
+  enable: true
+  button: true
+  autoChangeMode: 1
+
+rightside_scroll_percent: true
+rightside_config_animation: false
+
+copy:
+  enable: true
+  copyright:
+    enable: false
+    limit_count: 150
+
+busuanzi:
+  site_uv: false
+  site_pv: false
+  page_pv: false
+
+search:
+  use: local_search
+  placeholder: 搜索文章和项目
+  local_search:
+    preload: false
+    top_n_per_article: 3
+    unescape: true
+    pagination:
+      enable: false
+      hitsPerPage: 8
+    CDN:
+
+share:
+  use:
+
+structured_data:
+  enable: true
+  alternate_name:
+    - 会写字的魔王
+
+inject:
+  head:
+    - <link rel="stylesheet" href="/css/custom.css">
+  bottom:
+
+CDN:
+  internal_provider: local
+  third_party_provider: jsdelivr
+  version: true

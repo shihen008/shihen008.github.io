@@ -1,6 +1,6 @@
 # 会写字的魔王
 
-PAUL 的个人主页与技术笔记，使用 Hexo 和 NexT 构建，发布到 GitHub Pages。
+PAUL 的个人主页与技术笔记，使用 Hexo 和 Butterfly 构建，发布到 GitHub Pages。
 
 ## 本地查看
 

@@ -54,7 +54,7 @@ index_generator:
 per_page: 10
 pagination_dir: page
 
-theme: next
+theme: butterfly
 
 sitemap:
   path: sitemap.xml
