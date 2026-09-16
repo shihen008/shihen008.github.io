@@ -44,9 +44,9 @@ description: 会写字的魔王——PAUL 的个人主页，记录技术实践�
 <section class="home-section home-grid">
   <article class="home-panel">
     <p class="eyebrow">LATEST NOTE</p>
-    <h2>HTML 学习记录</h2>
-    <p>2015 年留下的第一篇笔记，保留原始内容和时间，并清理了已经失效的图片与外部服务。</p>
-    <a class="text-link" href="/2015/10/30/HTML/">阅读旧笔记 →</a>
+    <h2>2026 年，如何用 AI 更好地办公</h2>
+    <p>从单点任务到自动化工作流，再到 Agent：5 个实用技巧、一套行动计划和一份工具选择清单。</p>
+    <a class="text-link" href="/2026/09/16/ai-office-2026-from-assistant-to-agent/">阅读新文章 →</a>
   </article>
   <article class="home-panel">
     <p class="eyebrow">ABOUT THIS SITE</p>
